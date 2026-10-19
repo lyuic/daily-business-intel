@@ -1,0 +1,683 @@
+{
+  "updated_at": "2026-10-19T15:25:42.676337+00:00",
+  "count": 60,
+  "feed_status": [
+    {
+      "source": "Reuters Business",
+      "error": "<urlopen error [Errno -2] Name or service not known>"
+    },
+    {
+      "source": "AP Business",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "TechCrunch AI",
+      "count": 20
+    },
+    {
+      "source": "Google China Tech",
+      "count": 100
+    }
+  ],
+  "articles": [
+    {
+      "title": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl - Nikkei Asia",
+      "summary": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU09ReGl5NnZhcHRYaE9jRHpMWTZ5MC02X2tKaGJfYUxHNF9fUmxDWEdQUlhOeHJlRWliQ0ZsbHBxRFBPNWJ0VWlUNC1KZ1ppb0p5RjZ2RWF5a2ZnVmJDMVREVTNYdTZrUFlDQjcycHJrazYxZDhobTRELUVLay1wdkhLMW5OcVJnT2pQWnRBQ2hXczA4TUN1eHA0OXE0SV9RODBpbm1HUWlEYV9tWUI2MjhqajlacmY2bDEwZFBQVVdjTUh1MDVmNno4bGlrZw?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T13:55:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "How China's proposed AI export controls could affect open-weight ecosystem - Business Standard",
+      "summary": "How China's proposed AI export controls could affect open-weight ecosystem Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWJDOC1fSTRNMHpMQTg2NWRDa1VVSHVyWTJna2FYUHdmMXpVeUREQmNod3dwMzZPOGFqcW05QkZLSzdrWUNwU0ExMWVVdVJWVldnRFpiNVh1cjlsMktwTEJkVnJ6TDhMWFZDR0ZaeGUxcGlEZlJSa0JHZ1FZQWpXcVF0eG5MdWtoN2xwY3U3eEdVamhhaG5nOTJuY2xnRUVaWTYzTU9HZlJHNkJyXzdMVng1QXFXS3FJYWfSAb8BQVVfeXFMT3ZsQWFUNUJzWTdCR212TTBqYWJ2V0xQTFQtRjBZMVVDMG5aWkNha3dwejRZNlhhMDhFTS0wZnRrbHBOZGpkZ1NOUi04aVFTY0xiLUlYWEFZdGtGRjBZXzBNQm04cFBPMkRWREdwNS1mTHhVLWJHNnA3YUZzUXBMUFFVQ1ZwU0FXNjMwdkNEM2d2Q3M4RGdOZ0M4R0dBOHJqenJZSEwzWGhHVmtOXzNxeENtQ0Nmb1lSRndzcS1oaTA?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T10:46:56+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China’s tightening grip on its most advanced AI should be a warning signal for India - ThePrint",
+      "summary": "China’s tightening grip on its most advanced AI should be a warning signal for India ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFpTRTRLWHpxMGlpYnZKWmVfNWNFYzljSEhBbXdZZU1RNTk1RE5zQ2dCV2NFTDFMZXNjWFA0cmtZZnd1WTBLdFE4WVM3dlI0a29KV0Y1TGNCVk8teklxLURtS3Q0VE1SVld5MUZkYVFBSXI2OVpBaTlEQmZIVFl5Y19TUDQwX3JoR3fSAY8BQVVfeXFMUFpLLThXeWlneHBub3JJcFFiOU1EYXdSSDRsWWluODZuQUJLWlRiSEc4SEY1N3VPWkZnM2JmWkZYUE5FeXRrQVBMc1FaTFllYi1xUnpDZUhhWUh4N2dNRnQzZjNBbUhkVHZtUnp6cnBnNDROMWJoMkVBc0tDeTlWTkJudkVKdThmbWN2M1hLQ1U?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T10:41:44+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "From smart sensors to AI robots, technology transforming China's elderly care - Xinhua",
+      "summary": "From smart sensors to AI robots, technology transforming China's elderly care Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBibVVQUlRFVFVMcjd3OUpVbjRINWdrTk04ZnFfbmgxdHhmTi1Td1NORDN2ME12YWpNU0VmOUlqcXB6clRRWDdzSWhDTXU4cXRZbm8zaW1UUFFMdURVYkJOd285U1VUVWgxaEM3Vm5sdVFIREhmMHlabHNLUHI?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T10:13:16+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Accenture weighs $1.5 billion sale of China business as AI reshapes strategy: Report - Fortune India",
+      "summary": "Accenture weighs $1.5 billion sale of China business as AI reshapes strategy: Report Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzRoV21DRFBwMGQzRVN2WmoyU1ctbHdMS3ZYMU5kX2xweTRKMEZzWFk4TV9YX2kzc0Z3d09fbHpqOTgyd29NMkVnUURGTUY0ek45U3NZajdsWE5JN1hhSERvRzRuaWxObi1uYTRLUGQzRlVmRjBaUHNqR2RMUTlUVW1FdWI4UVZBNTkzNlluWHJRbDIyNVVNQUNSSGNBdUVNNFphZzE4dXIzWGstT0kxVmRFZFNDRGNBX0p0OHBQdHgwbEg4UHJR0gHUAUFVX3lxTE1xM2NyaG42ZGlDS1hiSkN0NExvRklZejZObkltenpSUW5sUmJpTmtYWGdDVmdqYmw2ZkNvdnRKaTJhLURVTDhZSFdVekZ1TEdWYzNZTmJDYmtOT2ZHdmF1anBHa1Y4MjlDcWg4R3JZTVFnWkM0THVsMTE1UXZOX3o3cHVsRGNkVTByRTZmUFJ6cGl6Qmx2MlJkckxNSDdTa1lWQnRsM1F0clRzUWRINVV4Y2dyXy11OVZDUi11MnZHYXNqNVFkYzgtZ2wwQkVYVXZ6TU1i?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T08:40:18+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China’s Growth Rebounds as AI-Driven Exports Offset Weak Home Demand - JournalArta",
+      "summary": "China’s Growth Rebounds as AI-Driven Exports Offset Weak Home Demand JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3lZRVQtRS16eThkRjBhWjBuaTd4TGp1bnhJQ0wzbHlONzlqbU1NWmVtSWlyR1ppTEZvYjJyeEJnRFZqVWtpdHh5ZWxoV2hKYzVkMU1VaHhmcmduQUFNVnZGWUtjd0d2dDUyTFBuOHpQRnYtTGhmWjdRZnc4aEFyNWhDWmFtTnRoblM2Z3RpR0tac1EybTkxSWVzZEYybGJvOXBrY1dyaG5DUQ?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T08:02:59+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China’s economy grows 4.5 percent in Q3, beating forecasts - Al Jazeera",
+      "summary": "China’s economy grows 4.5 percent in Q3, beating forecasts Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGJuVjc0Mm9UaU9ZMUdIVzF0d1hhVlpNVFNvTzFVQ29Jb2JNX1FMcXAtQk9UbWNIb0J4YTI5YUtiTkZBYklPOTAtRl9sTnEyemIxUW9jaW1Ha0RXR1MwYlVJOFRNdDlrdzRsZkQwS2NDWkp4T2NjeHZjcTY0YjVqYjlJWWF2aDJLa3R6N0xsNDc5Q0dIQk05ZlA1Wl8xSTVWTHA00gGoAUFVX3lxTE5vUTFEQzkwMXBKWV8wYmZPUFhmLVUtMlFMZ3BqRWtVQUtNRTM1QUxlLTlzYi1LUTVxX0lMbWNFYkRaNi1NbXd2ZUNuMU5BWmxTMHJZY0FtMm1xdmllazhQN2NOMGpoYWNVaUQxN1FNOWR3Y3Uxc2NtYzRvd0xnNXNfWXdEUWFKOHY2MU80QmRCSVFDeHluRHl6eEN4dWtNUFFpMDd4b0tNYQ?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T06:26:38+00:00",
+      "categories": [
+        "市场",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China's Economy Shows Improvement Driven by AI Demand, Despite Domestic Challenges - Ratopati",
+      "summary": "China's Economy Shows Improvement Driven by AI Demand, Despite Domestic Challenges Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3VHa2ctMDZ3VU1MRTVnUGFoVzEtaVRtZGNTTm9uOXRZMHE5UDNVZTZhV21uOTlXT0g5MFg2V3Vyc05xaW9KNVBZaE0xd0txenAzR3p4VFJaR1R5OHpzXzZmVTFEc2RyaHNEQ0h1UGpuWkM3akZRdVRwR1RSdXdpRFdobUFUc0xsR3dZVDNpN2hfM0FXejB2dXZzU1g5NjBsMGdGNkpqeTZ5WnhEUkY4NERTWlFwYzBKNEhEWVdRMVVORGU4NHhsc2tQRkVXdzVDWEo3Zw?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T05:39:51+00:00",
+      "categories": [
+        "市场",
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "As investors debate if Accenture will be a winner or loser from AI, the company may be planning to say 'g - The Times of India",
+      "summary": "As investors debate if Accenture will be a winner or loser from AI, the company may be planning to say 'g The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxON2RVTGFFdV9rMUdya3VZYUhkQ2NZYldlcXJ1bzQwWEJQVk1wZWoyUm8xcHh3WVptWk1KT09RMVc1OThxUFEzN1h6Q1ZOOVNKMF9XYmk3TnlwY2s5Vm5BUl8tZWYteGpRVTFhVmVnSFIydDdLUUtZSmNHR2dKZEdXQkY4UEVieXBxcEZmaVYwSm53UXBkTDZaQmtsMU1uck9wbXViM0lkT2lBeko1QWlhX3l4STFybUMzemNBcXRrc25FaVNFVE5kTk81Um1yb18wcEZkQTc4OHB0Vnd5Y0NBX1ZHV0gxTThmZno5MTNoWlMyaHYtaFN1OGZmeUF0UFd2cm1ub2JSMWNuT2lCLU51M3BHOVIxUTdDY2ZqbzdGYjRfTkpfUlpRUzVkOXE5NkVzZXphalpqRUdUeURrd2RxeWl3emNuaTRfTkpVRGR5TdIB1AJBVV95cUxPYk11M3dCb092R1hfREx6b1N4WlFrNHVyQkp1eldOQjRpNVN3WHlMX2RmR25GOFBLMUdyYmowYlVOUXR4TndUSGcxZG1sQkZybThxeFBwN01QMkpHeVhMV09Yd1pkc1FESmVYbmk1RHloYV9NejNLVmwtVkVuZXExTGxJR1dWdlVERWdDMlNrZlR1bjhwLUlSd2U3MVNid2g2b0MxYWdTSGxTOVVvS0tpMWx6bDQ0bG1CRG1INWRNQkdIMFFsbE9Db29aWkd1TGRidE96bEs4bUdmLTFuZTduUW9vVXo4bWpzQkRuLUJxSC1OYlJKVzEtRkxfRVhTZmFFcVRDaGdURmEtWWVMSHFYaF9JSlFQVGJtQ3pDbEpZNUZiNXFJaDh0R1RBcFNfbDI2MGFyTE5xVjQ1clNEQi1fN2xUb0o1aWtXSndpRUlkR0MwNEhp?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T02:43:00+00:00",
+      "categories": [
+        "美国公司",
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness - BBC",
+      "summary": "China economy: Growth accelerates as AI export boom outweighs domestic weakness BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiRHNscmo4QS1PNzdVejAzOTJHbzRXc1M4aHowZE8xaUl2VEFYaERGenhZcVAyVmVjTWVhallfSVdzOVMxREJldG1EUUxVQS0xQUl6SW9MZ0FwcERETFE?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-19T02:03:04+00:00",
+      "categories": [
+        "市场",
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China Proposes Export Controls on 12 Solar Technologies; India’s Clean-Energy Manufacturing Faces New Questions - www.nationpathindia.com",
+      "summary": "China Proposes Export Controls on 12 Solar Technologies; India’s Clean-Energy Manufacturing Faces New Questions www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGM4WEpKOEFNcHhrV1F2S05HUzI4a2lpYmI3enhXZWZXSkV6N3piaV90TVRrQk9Yem16RDNmVWhfMExsMXZCQ3l0T2FBQWZHd2xNcW1LaEFwNV9iRXU1SWJROF9xM3gyZEdBMW5jYWJreGFBWXVidkV3TVU5NktCMXRrUWpTT19CeXVlOE8za0NpNjRYSHdwRzVFa1JnZXI2eUE?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-18T21:02:17+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T20:37:40+00:00",
+      "categories": [
+        "美国公司",
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies - Global Sanctions and Export Controls Blog",
+      "summary": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies Global Sanctions and Export Controls Blog",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzR6T2xvUUt2Njl6TUZXaWFPYWxRU3QwRTZKM0d6N2tQUFlLcE1yUWZZLWlXc0w0Y0pMUzRaNlp2LWRZSUUtTWFBY0YzYllNT0dQNGx0eFo5YXUyQkpaZE44aUUtTUhpd29vZ1NmdGc2bFZUd1pSMW9OekJ2ZUljekNvRTFaZ0dNdTNFcVNmNDJic0M1T1RreXNWRUZ6ckxTVUE4NVBPdmRjcjJYTHlObTlFZjhDWHZuVkl4YXcwTk83TE8y?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-18T20:25:24+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-18T16:30:00+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China to limit exports of 40 key technologies, including AI and solar - Yahoo",
+      "summary": "China to limit exports of 40 key technologies, including AI and solar Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUUVmcmhQODRzazQwQ3M1NF81TlQ4VWhyWVAyTkNpWFhfclEzWHRtekNIcm9JV05aTkZueEQ2YTIwZHVGYWY0Zm9uSE5IV3RBSXI5NDJoMFM3Y1U3bFVxZmFaVWpSUEVsT3pBcVZYRUNUckM3OEFKOExhRmxkM3IxM0NlbTZXNzRIMmk4?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-18T09:48:30+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
+      "summary": "China proposes export controls on solar-manufacturing technologies Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-18T06:22:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "AI and US-China rivalry put universities to the test: Vanderbilt head - Nikkei Asia",
+      "summary": "AI and US-China rivalry put universities to the test: Vanderbilt head Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVU9OU1FCV3pvcW1sa0tOYjJCS1Y1TjFrclhJNkFjYVZ6b1ZvY1I1Tzk0d082NHBrV0ozbjBrWm9hdGhxNXBaVDZ2dnZyVlZ4RkZIVTh1Mk5VbVhva09MY05MOGtjVE9sSktmbnp3MDBKM3JRZ0hrNmFSalNzeGxSWXNzbU9QWEhNN3hQTmg1RDRUM3BWck0taW1wcDNLN254dUxvTU93QWpjbFUyeWprOExVUWJNYmJi?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-18T01:25:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T21:31:32+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T20:21:19+00:00",
+      "categories": [
+        "美国公司"
+      ]
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T18:48:08+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China Moves to Restrict Exports of 23 AI Technologies; Advanced Models and AI Agents in Focus - www.nationpathindia.com",
+      "summary": "China Moves to Restrict Exports of 23 AI Technologies; Advanced Models and AI Agents in Focus www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGo4N0c4Y2tJN0hIVzdIZEh1cF9SUHpsZ1QxMUNEU1AyWDNzeDUwNUpJZlAyRmpGbjhLUXBhRjA4bGJDVkVoQzdrN3JUM1JpQlRNZHhxQktXN1A5YUFrRkRPMUNxd2ZYODhjN3REbTEzQzZCRkNSelhabjdGbFZLTlZRV2FsZEZpTVh4R0pkYUxnNmtjUmVnZF9Fb3dmYkpvS0dr?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T15:26:40+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "How Taiwan’s new AI satellite system aims to speed up PLA tracking - South China Morning Post",
+      "summary": "How Taiwan’s new AI satellite system aims to speed up PLA tracking South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE81ZldpQ1BMdFV4TnNCeGE0ZmhBUVFyWTNzT3ZnZHpjOWFxZ2Z1QnlGZWUwNkE3QzhqRDJHUWxBSEwxbEFOZWZrbHQwM0NuSWl0Q1RNLU5XQnFXdzlNUkNhdnhlZmtDRVc2eV93RHBjY01rN3hXdXhOV1VsOGZKSndhRTJsQWhXZmx1Z3pmR0R2UlJfQ0JLNFVYazJKSDkyQVBrUVRfMTE0aHVEOG45X081ZUlrVjg2d3VFSy1GUFBLQUJuaXRjMGFDeWFyemV40gHQAUFVX3lxTFBqZDA0WkdrWl90N1BDUlRVYTRUT05mempGd2NhVFhzQTVyWTdWa0R6dXRNREVKd3ktV29ZbTl5djFweEtSVXBTWWRSSS1HczlxeDJDdF96cnFPbTF1ZTI5RjJRUUREbGxDWE9lM0plV2Z2YzMxamFVNGJTejBEbVRTYzc5dDVOZ1QwbWlYTE4wUXU0ZkRmRjROVVNuU0FVbk1jb3NxWV82UWNCQ21OenVPZmhkME02WGNMdDljN3ZCaV95NnRVOFRySFY2U1ZVVWI?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T14:00:07+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "From TikTok to AI models, China is expanding its control over technology exports - Tomorrow's Affairs",
+      "summary": "From TikTok to AI models, China is expanding its control over technology exports Tomorrow's Affairs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGlyWnY3TUZLYkdza1hfUTVKTEVDQmJNLUFSZzdXVVdlTlhfOVAzR3BnWF9QX0RMZXZBZDc2NHcxX1FLSDVJdVp5TFNMTXE2MUlETjd4aWNWdVFZRTJiZ2tkNUdoVGpyOXJQa1VEa2tIejY5V2oxSGlWbUx4TGpNWXhFb21DVDZTMjEyb19CV1lDV25Ob2s0cExzNUhBOThDQ0YzcGczRWxERFd0?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T12:49:11+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Taiwan targets illicit AI server exports to China with five-year prison terms — strict new controls follow US tariff deal and Super Micro raid - Tom's Hardware",
+      "summary": "Taiwan targets illicit AI server exports to China with five-year prison terms — strict new controls follow US tariff deal and Super Micro raid Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNC1IcW1faV82eWRWelAzby1jRFlvYTlUWmVBSDJSalhVOENPNHBQdkVuUXZ2SE5fRnhqSEoyZkNaRjNycEVCQm00LWVoXzhneWhSNjIxYmRXZGpuR1pyeU5yWmVib2Q3eEV4bE94WGlKblIzMldIb2FfYzNyanpadFhmWWYwaGhCWWdjaXJNN1JxbnlVUVc1MUtucmdPT2s2a3RhQ1FEY0N4MTh6S19sX1BoSGRITHAxbkhIMk5UZkx5ODY3ZVVjdExZWlhzU01pdjF4czNTZUFKOXNkWnFyS1NTQV9SSmxBcmRNU1R2VkY2UkVYelYxTXRnUmxxeTBNRXd4dVh6X3RWaEJnUkxzRjhWMm1CRE1vWkJsajhGTWxkc05s?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T12:20:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
+      "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXBIUWJVblVDTjRuV2xFYlJPd3E1bE5jdlVENVd1ek9CQjBleGJCTkItcERIT296NDNkcjQzMmJneU9RbDB3WWZrM3FBSHJvV0FjTmRWVUhHaXBQdHB6UDJuUTV1LXNwSnlqeW1hODZaclliY2pkN2FNcVA1R0RVNlNBMjRxWEQ4N3ZKNVhETGhpNHE2NUxVcnlicUtnNmpEVFdTMFNwbENtYUZkMThLX1h0czNNSDRoYlVyLVNXa2xoVVNDZFZOT1FuWTFhQmpuSVBEWjBn0gHWAUFVX3lxTE9kTHd4Z0laNEp1endfeXl3Tnlad1N4TGpDWWRCVHBRVGU5SWp6RS1EaWtOSHZxczdzeE5nSzhJNmhtbjVCWW9pOHBINHQzR2R6STBOTG1DalFtcWktSjEtbG9yTmFFY1liZnR6Y1FGZTFvcURSY1lKeFdJdk9OUmRldENHeUhBZXN4S2Vra0VPdG50VUg0cmtxTm51R1BJUlQtWXZaemtnWndzY19EWk9WczU2b2RiME1UNWFIdDZKeWtnSmlnSWJONkEwbUx0dVNzdUI2OGc?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T12:00:11+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+      "summary": "Kimi’s AI credit card turns spending into computing quotas – with limits South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-17T08:00:11+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "North Korea says it tested new torpedo with AI tech - South China Morning Post",
+      "summary": "North Korea says it tested new torpedo with AI tech South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEs0VnB3d3BveVBmcm1aTGRWOFBockJlaUJoWkxDT2U3VklKdVZBeVd4OVJiVDVUU1pfS2Jvclk5WjItcUI2aDBSZ3RUTDZrRTRfUlhpdWk2eEx0cl9faElNNGI5amJoNjRRaDFsX3lRbW5NWUt2VnlTSUVPUzY1aEt6d1VVRklMNEZzMnIxWWN2QkRFbThIeDBTV1luaVNYSTM3T2p30gGmAUFVX3lxTE5JdkI3QXdENVJKNHV6cndObWNudExORkE5TWFZcjZFSnlzUTg2MGVka01BLW5oMG5kVGprUFUzRG8tZEpzZFQtQzR0SVNmSXVKWFRvVF9RRUU2U1ZJYXFqRmE4SXQyZnhFWkJCUVJib05VMk5BZXJjWWkwclh0UU5MM2FlOVZ0X2VMQ3NCS2xhN1BYZFNYVFVpZFFkcHNlNVlqWVZsQUE?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T23:37:18+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
+      "summary": "Beijing seeks tighter grip on AI exports amid US rivalry Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T18:59:17+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T17:52:24+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T16:30:00+00:00",
+      "categories": [
+        "美国公司",
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T16:30:00+00:00",
+      "categories": [
+        "美国公司",
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T16:01:37+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China targets AI technology exports with new controls as US trade truce frays - The National",
+      "summary": "China targets AI technology exports with new controls as US trade truce frays The National",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXhXODFvTFFaWHlxeU12eEdra21OdFZ3UXdHc09PV1V2YTJQNVpCWGhnMUllZjYwdkw5d2R0MkhQV01rcTJDdEt1U09Lb1ZaMnVHamJ6UmFGOU4wZXd6dGVlRHdvdG9DeEJTZlNfamxDYXRYaVJGS2Fadmp6RnRkcmNJd2tWS2YtWHU2MElxdkV1YnlOdGxjTTBNbHp5R0RTUi1hX082VTBhRmJIdVRvSmE0dVVZVWhnNEZPNmxUaUNld2RHV1J4SUpRaGV0d2N6MWI0SmJn?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T15:49:56+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T15:33:49+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China's DeepSeek hit by 5-hour AI service outage - Nikkei Asia",
+      "summary": "China's DeepSeek hit by 5-hour AI service outage Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm4tNU0xUDJDckV6eGp3OHp6eUZCaGVERjBTLXNNS0VGZVpKcFRzR1ZCMmNvS3lBN3FEMkpJTHR6R3NtYXZjZVc2UU41Wm5YeHhWZzctd25uQkpoUUIteDlFRlR1X0xjdWtxV0E0dVN5cGdmUHhIQ2g5SGtVcW5WbDFXR21JOE5vWHpRWGNlWWtNay1TeUZfNlZPdjdRdkh2dy1MeWtPeEtNRXlOTjBRQk1WTEt6Vm8?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T15:21:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China moves to curb tech exports, including AI, citing national security risks - AP News",
+      "summary": "China moves to curb tech exports, including AI, citing national security risks AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T14:59:03+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T14:26:51+00:00",
+      "categories": [
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T14:00:00+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T12:55:09+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "China unveils draft export controls on AI technologies and chips - Financial Times",
+      "summary": "China unveils draft export controls on AI technologies and chips Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJrS1d0QjRNNDFCeDlGc2x2cHJhTWN6SEJtWjFucjRFWnc2LWlUMFFMbjFuX3BOWGpJcVhLdnVRRnFjaUVpRXh0UHNQcWl6UkF3clZ3VExPc1dVX1hvc2o4Tnl3Mm15VE03Y1h6NHJzU3hnUmlFWlpha0hkeElUaUg1SFY?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T12:51:49+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Update: China Proposes to Include 40 AI, Solar and Biomedicine Technologies in Export-Control List - Yahoo Finance",
+      "summary": "Update: China Proposes to Include 40 AI, Solar and Biomedicine Technologies in Export-Control List Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGxNaXdDTlMxUTUtZ0NkOUloUkwyVXpwejdTQWdBTElUZWRIMm5uVGZXR001SEhQY0pwT1lTdGhmQ3ZEWXJtMnE5RU5rXzB3c2tUc3JhaGV5ZUVKUFNQMlBqdDh3ZnUyUnpaVmxXU0d5NTB3clo0SHlScmpNbFlWTDBlSC1XaFZDZU5BeFVveDF4ZmRr?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T11:11:21+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China Plans AI Tech Export Curbs to Manage Security Risks - Bloomberg.com",
+      "summary": "China Plans AI Tech Export Curbs to Manage Security Risks Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T10:48:18+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China Proposes Export Controls on AI Technologies - WSJ",
+      "summary": "China Proposes Export Controls on AI Technologies WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T10:15:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China Proposes Export Controls on AI Technologies - Yahoo Finance",
+      "summary": "China Proposes Export Controls on AI Technologies Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUNjYXVIaGpqVUNRTGl0MHRrWmw5MTdRSWVfT1pDRmh1UWRqX1lkWFVHajBWb21HRmRBbTF0c2Y0Q1ZfT3pYRU9vZXFVWGhoTkhSclhaclBpY3NBelpucmlrb05mVjh2NnFrVEthS0RLb0tjYng2UlpJOWNRODM5Y3J4WDVLeHBtS19VcXFESmdPU0M0TEpCMkxuUVFLZw?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T10:15:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China to add AI, biopharma and solar tech to export control list - Nikkei Asia",
+      "summary": "China to add AI, biopharma and solar tech to export control list Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFpxWEtXaXRld25WMWpESTNDUkZaUHFyN2UxYkcteXMyYnJ0d3ZLQ25LVEJqSGF4YnluVXk4OGthWnFJdTYwNTYxX00zczZsV0pGakxhbUVxZVF2Mm5hQU5Sa2FZMkgxd2gyck9fYnV4VHhtWGZKMnl2bVR2YjlKaXhjd0NPaXJ4MmlIU2s2YkR3LUhSR3o2OWxKcTkzc01aVUVTZWg0dDgxRkR0NmFoTEtiNmg0a2otbVNoaEVOLXhZNnpnVDF2dnNybw?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T09:56:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post",
+      "summary": "China mulls new tech export bans covering AI, biotechnology and solar power South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T08:31:39+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China's Tencent says AI agents showed unintended browsing behaviour - Reuters",
+      "summary": "China's Tencent says AI agents showed unintended browsing behaviour Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXIxZ25uQTZ2ejY2eWZDQzdsbkEwcklpa2d1MGZsN292M0FmYVRuQmxmNXh3QTF0TEttcGlQUmRETTRIWDhKS0FoWU9XNmFVOEo4VnRWcUdTWUxLYk1KZHowWWFESGN4SVp0aWdRbmkzdC1kSTJYUVAyMHBxYWR2VTNGQUt3OWFvZm8yQ2FjZnVpM2VrMkxZVVNORWU5Sl9qaFBCZUdmOU9mUk5EVVhSTU9PUm1ubE9EUENnaDFjU19lendyNXc?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T07:10:02+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China Opens AI Export-Control Consultation, Requires Interim Registration - FindArticles",
+      "summary": "China Opens AI Export-Control Consultation, Requires Interim Registration FindArticles",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmpMTDJHMGZXdElZNUk4VnZCRHF2SlVvNi1VbWJpRDEwSDA4ZllXZUdlQnZUMFIyMTIwd0tWaFFjWENTalJZaFNneGZUeEVRLVF0NG94QU5tRW9uUUhzVWVWcjZZWlAxeDlVdGU1X210dGpDSlV6aUtFejNSSHBEempDWGJ3dW5BclFTRS1DRWXSAZgBQVVfeXFMT0FLamQyRXd4WXo0VUxDZ3JiTlpkdjNLemR6NUlOVU5MWUhaalh2a0E2bW9mdk16OExENU1pLWI1LU8yakZvQjFoV0RQVWRlSmRhYURnUGM4djZTN3dERkpXYkNyTzEySThhUDNrZ1dmTnF4LTlJVzhIVWxveXhvZ0hEMzJpTUFSRXRTaEhiTUZUSDBJY0tOYkY?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T07:00:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "China’s AI battle moves from chatbots to agents - ThinkChina",
+      "summary": "China’s AI battle moves from chatbots to agents ThinkChina",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHZKUjNGOGRoanJkMzJTNTNITGozTFd3WEUxYU5rdVJoYnphM1gzRHF6bHZiSlJVZ3lUWDVIR0FEc3JKcGVkaTY1aVV5V3NHOWpMQ09TVWdkTTFFRk9SMVhuM0JSRWF4cEZjb2lYUG1oUkgzQ2k2UFRMbFFmeG9yOQ?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-16T03:48:50+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T23:44:56+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T20:04:53+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T19:55:25+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T19:14:26+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T18:56:46+00:00",
+      "categories": [
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T18:00:00+00:00",
+      "categories": [
+        "市场",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T15:02:36+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技"
+      ]
+    },
+    {
+      "title": "America’s AI Pessimism Risks Handing China the Lead - Hudson Institute",
+      "summary": "America’s AI Pessimism Risks Handing China the Lead Hudson Institute",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUh5b28tTVlIMDM1anFIQXFWY1Bqa3Jfd0hQLXJpakFfWTFaNy1XNjVKT1ZZRVQwVzJGNlF6bWRITXRuVFQwQ1FOdGl4RWtfclNzRm9UVUZfTVJNOWtTT0Z6dmlObHZROFVaUC11V1RSekdYdUsxMEVQNGttZzdhSFlaQzlkWnhsSjRRMThEdU5DTG56cE5N?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-15T12:00:00+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI - CNBC",
+      "summary": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEYjc4dkowbWxWTnNOYUdjTVk1Sml3aXVyZGpmak1uZ0p6RkpaNTRPWThSWldLa2pGc0kwVS15WHFzVnJUU1dia3cwbTBPVktDUmVhak5Lak8yUi10V0syRFl1c0NvbXBMejR2amJzX0ZSdzDSAXhBVV95cUxQZUVwekQ3WExVS3ZTeXIxWEZ5OW9iTnpwbzUxMWVhSWMydTJoNTBoT2V4ZVk1bm50Rl93dklWRnU4NnR6aDZBS01LZ2NJUzVYWHkzejFJUVR0cnFPamxXRHJxSUNDVHFtaWdwYVFqQ21HMXg4ZVVId1k?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-15T11:12:51+00:00",
+      "categories": [
+        "美国公司",
+        "AI与科技",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them. - The New York Times",
+      "summary": "Chinese A.I. Agents Joined the Rogue A.I. Agent Party. I Chatted With Them. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTFlzR2JGNXFsR19paHdHeHZqbnhKU1VuUVdDbURLcFI1M1pwZm1namx3VHp0OGQyUDV6SVFGdmVJSzRRSm1IUE5IVlgyYlk1UnNRd19IemRoRE45MHpHNkNWSGtjTEF2N3lmNXBOdWY5Y2k0ZUN6bUNHcFQwb3M?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-14T11:00:06+00:00",
+      "categories": [
+        "中国科技"
+      ]
+    },
+    {
+      "title": "Why Chinese celebrate AI but Americans hesitate - ThinkChina",
+      "summary": "Why Chinese celebrate AI but Americans hesitate ThinkChina",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1pnMUtETEtIQkZhT3VxVmYzZjR1bFkycDU2Q1BLaFhfd244dGZQSGVPNkM4bzJtcWtKRmRhTG9RbXZJelNtVEtIYU5iUlVvV0l6MmZBeGV6NXFCSlRSWWZuOFJoX2JYOVFyWEZWYnV6ODdWbWJ3MXdRekh5b3QxbEs1TmR3MlE?oc=5",
+      "source": "Google China Tech",
+      "published": "2026-10-13T07:01:28+00:00",
+      "categories": [
+        "AI与科技",
+        "中国科技"
+      ]
+    }
+  ]
+}
